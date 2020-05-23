@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/sandbox?currentSchema=dev
+    username: sandbox
+    password: sandb0x
+  jpa:
+    show-sql: true
